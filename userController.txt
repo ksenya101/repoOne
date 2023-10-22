@@ -1,5 +1,7 @@
 package controller
 
 public class UserController {
-
+	public Userontroller() {
+		System.out.println("Hello UserController");
+	}
 }
